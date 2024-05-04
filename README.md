@@ -7,5 +7,7 @@ sudo apt install mc
 ```bash
 sudo apt update
 sudo apt upgrade
-sudo apt install dia
+apt install dia
+git clone --depth=1 --branch=main https://github.com/ufrs12/OLCAD
+sh ./OLCAD/dia/add.sh
 ```
